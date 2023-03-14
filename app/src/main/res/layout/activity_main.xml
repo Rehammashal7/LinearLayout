@@ -127,7 +127,8 @@
             android:text="@string/_3_hr"
             android:textColor="@color/white"
             android:textSize="@dimen/smallTextSize"
-            android:gravity="center"/>
+            android:gravity="center"
+            android:paddingHorizontal="4dp"/>
 
         <TextView
             android:layout_width="50sp"
